@@ -1,4 +1,4 @@
-# SF-SEUOT
+# SF-ESUOT
 
 ## CUT translation result (Wild(left) $\rightarrow$ Cat(right))
 <p align="middle">
